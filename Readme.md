@@ -4,7 +4,7 @@
 
 > Login Page 
 
-Nesse projeto criei uma página de login reponsiva com uma animação.
+Nesse projeto criei uma página de login responsiva com uma animação.
 
 
 ## Tecnologias
